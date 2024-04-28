@@ -1,1 +1,1 @@
-from .main import wait
+from .main import wait.sec, wait.min
